@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "forced - situation analysis!"
+date:   2018-10-15 14:53:38 +0530
+categories: chess
+---
+
+# Situation
+
+![situation - white to move]('../../../../../../assets/images/1.png)
+
+
+# Analysis
+
+White to move.
+
+## first approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| `Qg5+` | Kicked myself after realizing the `Bg5+` was better move; rage quit. | | |
+| | | | |
+
+Result: Kicked myself
+
+## second approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| **Bg5+** | Black king cannot move to `e8` and `f7` beacause of white's queen; cannot move to `d7` and `f7` because of knight; cannot stay in `e7` or move to `f6` because of bishop; his queen and bishop block `d8` and `f8` respectively; only square left to move is `d6`. | **Kd6** | only square left to move to. |
+| **Nf7+** | A. Checks, B. threatens queen and rook |  | |
+| | | | |
+
+Wait a minute I am an idiot. Just realized that king could have moved to `e6` for better tactical advantage.
+
+Result: Kicked myself
+
+## third approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| **Bg5+** | Black king cannot move to `e8` and `f7` beacause of white's queen; cannot move to `d7` and `f7` because of knight; cannot stay in `e7` or move to `f6` because of bishop; his queen and bishop block `d8` and `f8` respectively; only squares left to move are `d6` and `e6`. | **Ke6** | better tactical advantage. |
+| **Bxd8** | Capture queen | **be7** | Force invading bishop out. |
+| **Bc7** | Protect self, block black squares and protect knight | **** | Force invading bishop out. |
+| | | | |
+
+Wait a minute I am an idiot. Just realized that king could have moved to `e6` for better tactical advantage.
+

@@ -1,1 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/chess/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/chess/" rel="alternate" type="text/html" /><updated>2018-10-15T15:21:35+05:30</updated><id>http://localhost:4000/chess/</id><title type="html">f0c1s plays chess</title><subtitle>This is where I diagnose my chess situation; it's a comentary on chess and me playing chess.</subtitle><entry><title type="html">Welcome to f0c1s/chess!</title><link href="http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to f0c1s/chess!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll.html">&lt;p&gt;Hi kids, do you like violence. Chess might be the game for you.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi kids, do you like violence. Chess might be the game for you.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/chess/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/chess/" rel="alternate" type="text/html" /><updated>2018-10-15T16:15:24+05:30</updated><id>http://localhost:4000/chess/</id><title type="html">f0c1s plays chess</title><subtitle>This is where I diagnose my chess situation; it's a comentary on chess and me playing chess.</subtitle><entry><title type="html">Welcome to f0c1s/chess!</title><link href="http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to f0c1s/chess!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/chess/chess/2018/10/15/welcome-to-jekyll.html">&lt;p&gt;Hi kids, do you like violence. Chess might be the game for you.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi kids, do you like violence. Chess might be the game for you.</summary></entry><entry><title type="html">forced - situation analysis!</title><link href="http://localhost:4000/chess/chess/2018/10/15/1.chess-forced.html" rel="alternate" type="text/html" title="forced - situation analysis!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>http://localhost:4000/chess/chess/2018/10/15/1.chess-forced</id><content type="html" xml:base="http://localhost:4000/chess/chess/2018/10/15/1.chess-forced.html">&lt;h1 id=&quot;situation&quot;&gt;Situation&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;'../../../../../../assets/images/1.png&quot; alt=&quot;situation - white to move&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;analysis&quot;&gt;Analysis&lt;/h1&gt;
+
+&lt;p&gt;White to move.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-approach&quot;&gt;first approach&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;white&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+      &lt;th&gt;black&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Qg5+&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Kicked myself after realizing the &lt;code class=&quot;highlighter-rouge&quot;&gt;Bg5+&lt;/code&gt; was better move; rage quit.&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Result: Kicked myself&lt;/p&gt;
+
+&lt;h2 id=&quot;second-approach&quot;&gt;second approach&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;white&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+      &lt;th&gt;black&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Bg5+&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Black king cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;e8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; beacause of white’s queen; cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;d7&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; because of knight; cannot stay in &lt;code class=&quot;highlighter-rouge&quot;&gt;e7&lt;/code&gt; or move to &lt;code class=&quot;highlighter-rouge&quot;&gt;f6&lt;/code&gt; because of bishop; his queen and bishop block &lt;code class=&quot;highlighter-rouge&quot;&gt;d8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f8&lt;/code&gt; respectively; only square left to move is &lt;code class=&quot;highlighter-rouge&quot;&gt;d6&lt;/code&gt;.&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Kd6&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;only square left to move to.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Nf7+&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;A. Checks, B. threatens queen and rook&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Wait a minute I am an idiot. Just realized that king could have moved to &lt;code class=&quot;highlighter-rouge&quot;&gt;e6&lt;/code&gt; for better tactical advantage.&lt;/p&gt;
+
+&lt;p&gt;Result: Kicked myself&lt;/p&gt;
+
+&lt;h2 id=&quot;third-approach&quot;&gt;third approach&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;white&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+      &lt;th&gt;black&lt;/th&gt;
+      &lt;th&gt;commentary&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Bg5+&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Black king cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;e8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; beacause of white’s queen; cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;d7&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; because of knight; cannot stay in &lt;code class=&quot;highlighter-rouge&quot;&gt;e7&lt;/code&gt; or move to &lt;code class=&quot;highlighter-rouge&quot;&gt;f6&lt;/code&gt; because of bishop; his queen and bishop block &lt;code class=&quot;highlighter-rouge&quot;&gt;d8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f8&lt;/code&gt; respectively; only squares left to move are &lt;code class=&quot;highlighter-rouge&quot;&gt;d6&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;e6&lt;/code&gt;.&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Ke6&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;better tactical advantage.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Bxd8&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Capture queen&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;be7&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Force invading bishop out.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Bc7&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Protect self, block black squares and protect knight&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;**&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Force invading bishop out.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Wait a minute I am an idiot. Just realized that king could have moved to &lt;code class=&quot;highlighter-rouge&quot;&gt;e6&lt;/code&gt; for better tactical advantage.&lt;/p&gt;</content><author><name></name></author><summary type="html">Situation</summary></entry></feed>
