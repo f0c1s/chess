@@ -41,8 +41,8 @@ Result: Kicked myself
 | - | - | -| - | 
 | **Bg5+** | Black king cannot move to `e8` and `f7` beacause of white's queen; cannot move to `d7` and `f7` because of knight; cannot stay in `e7` or move to `f6` because of bishop; his queen and bishop block `d8` and `f8` respectively; only squares left to move are `d6` and `e6`. | **Ke6** | better tactical advantage. |
 | **Bxd8** | Capture queen | **be7** | Force invading bishop out. |
-| **Bc7** | Protect self, block black squares and protect knight | **** | Force invading bishop out. |
+| **Bc7** | Protect self, block black squares and protect knight | **pg6** | Block invading queen. |
+| | | | |
 | | | | |
 
-Wait a minute I am an idiot. Just realized that king could have moved to `e6` for better tactical advantage.
-
+Well, I cannot keep updating the analysis this way. This is slow and unsustainable.
