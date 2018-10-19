@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A compliment in disguise"
-date:   2018-10-15 14:53:38 +0530
+date:   2018-10-19 10:53:38 +0530
 categories: chess
 ---
 
