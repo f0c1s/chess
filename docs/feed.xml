@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://f0c1s.github.io/chess/feed.xml" rel="self" type="application/atom+xml" /><link href="https://f0c1s.github.io/chess/" rel="alternate" type="text/html" /><updated>2018-10-19T11:55:15+05:30</updated><id>https://f0c1s.github.io/chess/</id><title type="html">f0c1s plays chess</title><subtitle>This is where I diagnose my chess situation; it's a comentary on chess and me playing chess.</subtitle><entry><title type="html">A compliment in disguise</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise.html" rel="alternate" type="text/html" title="A compliment in disguise" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise.html">&lt;h2 id=&quot;a-game&quot;&gt;A game&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://f0c1s.github.io/chess/feed.xml" rel="self" type="application/atom+xml" /><link href="https://f0c1s.github.io/chess/" rel="alternate" type="text/html" /><updated>2018-10-19T12:10:28+05:30</updated><id>https://f0c1s.github.io/chess/</id><title type="html">f0c1s plays chess</title><subtitle>This is where I diagnose my chess situation; it's a comentary on chess and me playing chess.</subtitle><entry><title type="html">A compliment in disguise</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise.html" rel="alternate" type="text/html" title="A compliment in disguise" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/A-compliment-in-disguise.html">&lt;h2 id=&quot;a-game&quot;&gt;A game&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://lichess.org/PdNA6RXE&quot;&gt;https://lichess.org/PdNA6RXE&lt;/a&gt;&lt;/p&gt;
 
@@ -102,123 +102,64 @@ KTKing analysis
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;I think in this day and age, if someone calls you a bot, you probably are doing good.&lt;/p&gt;</content><author><name></name></author><summary type="html">A game</summary></entry><entry><title type="html">Welcome to f0c1s/chess!</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to f0c1s/chess!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll.html">&lt;p&gt;Hi kids, do you like violence. Chess might be the game for you.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi kids, do you like violence. Chess might be the game for you.</summary></entry><entry><title type="html">forced - situation analysis!</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced.html" rel="alternate" type="text/html" title="forced - situation analysis!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced.html">&lt;h1 id=&quot;situation&quot;&gt;Situation&lt;/h1&gt;
+&lt;p&gt;I think in this day and age, if someone calls you a bot, you probably are doing good.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;'../../../../../../assets/images/1.png&quot; alt=&quot;situation - white to move&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;update-from-reddit-comment&quot;&gt;Update: From reddit comment&lt;/h3&gt;
 
-&lt;h1 id=&quot;analysis&quot;&gt;Analysis&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+And to think, I didn't even play London or Fianchetto properly in this game. 
 
-&lt;p&gt;White to move.&lt;/p&gt;
+I have played better games against ELO 16xx players, 
+because I think they practice with bots.
 
-&lt;h2 id=&quot;first-approach&quot;&gt;first approach&lt;/h2&gt;
+Not to mean that they are bad, it's just I have played a lot of computer than humans.
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;white&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-      &lt;th&gt;black&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Qg5+&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;Kicked myself after realizing the &lt;code class=&quot;highlighter-rouge&quot;&gt;Bg5+&lt;/code&gt; was better move; rage quit.&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+Examples a: https://lichess.org/MfOQ4TJV/ and b: https://lichess.org/w7Z6YlZo/
 
-&lt;p&gt;Result: Kicked myself&lt;/p&gt;
+How did I end up at London System: Well https://lichess.org/@/dimboukosis beat me repeatedly and someone mentioned the other day in commandments post (though as tongue in cheek fun, but I read up on it). And fianchetto, my first reddit post on r/chess .
 
-&lt;h2 id=&quot;second-approach&quot;&gt;second approach&lt;/h2&gt;
+Anyway, I am going to continue playing LS and FS for a while, then I'll incorporate Stonewall and other Queen's Pawn game based attacks.
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;white&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-      &lt;th&gt;black&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Bg5+&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Black king cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;e8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; beacause of white’s queen; cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;d7&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; because of knight; cannot stay in &lt;code class=&quot;highlighter-rouge&quot;&gt;e7&lt;/code&gt; or move to &lt;code class=&quot;highlighter-rouge&quot;&gt;f6&lt;/code&gt; because of bishop; his queen and bishop block &lt;code class=&quot;highlighter-rouge&quot;&gt;d8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f8&lt;/code&gt; respectively; only square left to move is &lt;code class=&quot;highlighter-rouge&quot;&gt;d6&lt;/code&gt;.&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Kd6&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;only square left to move to.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Nf7+&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;A. Checks, B. threatens queen and rook&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+And oh, to sound even stranger, I am only playing with White if I can help it. I have not played Black offline yet. I am new and learning chess, come beat the shit out of me at: https://lichess.org/@/f0c1s
 
-&lt;p&gt;Wait a minute I am an idiot. Just realized that king could have moved to &lt;code class=&quot;highlighter-rouge&quot;&gt;e6&lt;/code&gt; for better tactical advantage.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">A game</summary></entry><entry><title type="html">Welcome to f0c1s/chess!</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to f0c1s/chess!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/welcome-to-jekyll.html">Hi kids, do you like violence. Chess might be the game for you.</content><author><name></name></author><summary type="html">Hi kids, do you like violence. Chess might be the game for you.</summary></entry><entry><title type="html">forced - situation analysis!</title><link href="https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced.html" rel="alternate" type="text/html" title="forced - situation analysis!" /><published>2018-10-15T14:53:38+05:30</published><updated>2018-10-15T14:53:38+05:30</updated><id>https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced</id><content type="html" xml:base="https://f0c1s.github.io/chess/chess/2018/10/15/1.chess-forced.html"># Situation
 
-&lt;p&gt;Result: Kicked myself&lt;/p&gt;
+![situation - white to move]('../../../../../../assets/images/1.png)
 
-&lt;h2 id=&quot;third-approach&quot;&gt;third approach&lt;/h2&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;white&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-      &lt;th&gt;black&lt;/th&gt;
-      &lt;th&gt;commentary&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Bg5+&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Black king cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;e8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; beacause of white’s queen; cannot move to &lt;code class=&quot;highlighter-rouge&quot;&gt;d7&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f7&lt;/code&gt; because of knight; cannot stay in &lt;code class=&quot;highlighter-rouge&quot;&gt;e7&lt;/code&gt; or move to &lt;code class=&quot;highlighter-rouge&quot;&gt;f6&lt;/code&gt; because of bishop; his queen and bishop block &lt;code class=&quot;highlighter-rouge&quot;&gt;d8&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;f8&lt;/code&gt; respectively; only squares left to move are &lt;code class=&quot;highlighter-rouge&quot;&gt;d6&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;e6&lt;/code&gt;.&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Ke6&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;better tactical advantage.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Bxd8&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Capture queen&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;be7&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Force invading bishop out.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Bc7&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Protect self, block black squares and protect knight&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;pg6&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Block invading queen.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+# Analysis
 
-&lt;p&gt;Well, I cannot keep updating the analysis this way. This is slow and unsustainable.&lt;/p&gt;</content><author><name></name></author><summary type="html">Situation</summary></entry></feed>
+White to move.
+
+## first approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| `Qg5+` | Kicked myself after realizing the `Bg5+` was better move; rage quit. | | |
+| | | | |
+
+Result: Kicked myself
+
+## second approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| **Bg5+** | Black king cannot move to `e8` and `f7` beacause of white's queen; cannot move to `d7` and `f7` because of knight; cannot stay in `e7` or move to `f6` because of bishop; his queen and bishop block `d8` and `f8` respectively; only square left to move is `d6`. | **Kd6** | only square left to move to. |
+| **Nf7+** | A. Checks, B. threatens queen and rook |  | |
+| | | | |
+
+Wait a minute I am an idiot. Just realized that king could have moved to `e6` for better tactical advantage.
+
+Result: Kicked myself
+
+## third approach
+
+| white | commentary | black | commentary |
+| - | - | -| - | 
+| **Bg5+** | Black king cannot move to `e8` and `f7` beacause of white's queen; cannot move to `d7` and `f7` because of knight; cannot stay in `e7` or move to `f6` because of bishop; his queen and bishop block `d8` and `f8` respectively; only squares left to move are `d6` and `e6`. | **Ke6** | better tactical advantage. |
+| **Bxd8** | Capture queen | **be7** | Force invading bishop out. |
+| **Bc7** | Protect self, block black squares and protect knight | **pg6** | Block invading queen. |
+| | | | |
+| | | | |
+
+Well, I cannot keep updating the analysis this way. This is slow and unsustainable.</content><author><name></name></author><summary type="html">Situation</summary></entry></feed>
